@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-new blog stuff
 ---
+new blog stuff
